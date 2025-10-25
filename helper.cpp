@@ -193,7 +193,6 @@ void WordleHelper::handleCommand(const string& input) {
         cout << "  w <letter> <pos> ...   (wrong spot but included)\n";
         cout << "  e <letters>            (exclude letters)\n";
         cout << "  r                      (restart)\n";
-        cout << "  p                      (print status)\n";
         cout << "  q                      (quit)\n";
     }
 }
@@ -208,7 +207,6 @@ int main() {
     cout << "  w <letter> <pos> ...   in word but wrong position\n";
     cout << "  e <letters>            exclude letters\n";
     cout << "  r                      restart\n";
-    cout << "  p                      print current list\n";
     cout << "  q                      quit\n";
 
     string input;
