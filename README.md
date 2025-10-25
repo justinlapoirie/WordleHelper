@@ -1,5 +1,6 @@
   Wordle Helper program: Use command-argument inputs to exclude letters, indicate letters that
 are in the word but at the wrong index, and letters that are in the word and at the correct index.
+Test the program here: https://wordleunlimited.org/ 
 
 COMMANDS:
 - c < letter > < pos >  (correct spot)
