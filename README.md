@@ -1,7 +1,8 @@
   Wordle Helper program: Use command-argument inputs to exclude letters, indicate letters that
 are in the word but at the wrong index, and letters that are in the word and at the correct index.
-Test the program here: https://wordleunlimited.org/ 
+Test the program here using the unlimited wordle website: https://wordleunlimited.org/ 
 
+To run the program, navigate to the directory the files are downloaded to, then type "make", followed by "./wordleHelper"
 COMMANDS:
 - c < letter > < pos >  (correct spot)
 - w < letter > < pos >  (wrong spot but included)
