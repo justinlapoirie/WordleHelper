@@ -73,4 +73,4 @@ possible words (up to 100 results).
 
 ## Author
 
-Developed by Justin Lapoirie, October 2024.
+Developed by Justin Lapoirie, October 2025.
